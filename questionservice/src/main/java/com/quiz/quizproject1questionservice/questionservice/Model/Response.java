@@ -1,0 +1,11 @@
+package com.quiz.quizproject1questionservice.questionservice.Model;
+
+import lombok.Data;
+import lombok.RequiredArgsConstructor;
+
+@Data
+@RequiredArgsConstructor
+public class Response {
+    private Integer id;
+    private String response;
+}
