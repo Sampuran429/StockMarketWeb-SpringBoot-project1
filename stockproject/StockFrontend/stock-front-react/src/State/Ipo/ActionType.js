@@ -1,0 +1,4 @@
+// ActionType.js
+export const FETCH_IPO_REQUEST = "FETCH_IPO_REQUEST";
+export const FETCH_IPO_SUCCESS = "FETCH_IPO_SUCCESS";
+export const FETCH_IPO_FAILURE = "FETCH_IPO_FAILURE";
